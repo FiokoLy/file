@@ -1,0 +1,9 @@
+# RICORDIAMO PYTHON3!!! 
+Code:
+f = open("Nomefile.txt", "a")
+f.write("Il testo va qua!")
+f.close()
+
+#NON CI PRENDIAMO ALCUNA RESPONSABILITÀ!!! 
+
+#(se volete nukkare il PC di un vostro amico/nemico scrivete il codice 1000000000 volte)
